@@ -1,1 +1,1 @@
-# Bank
+The code creates max 5 bank accounts. If a bank account with the same SSN number exists then the balance is updated in the existing account. It opens and closes accounts, updates address and balance, and gives bank and account information.
